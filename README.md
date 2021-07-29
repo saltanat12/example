@@ -1,0 +1,2 @@
+# example
+INfo about github
